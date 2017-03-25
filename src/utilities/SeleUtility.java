@@ -33,8 +33,7 @@ public class SeleUtility {
 	public static Properties property;
 	public static XSSFRow row;
 	public static XSSFCell cell;
-	public static FileOutputStream outputStream;
-	
+	public static FileOutputStream outputStream;	
 	public static String newFileLoaction = null;
 	public static String fileName = null;
 	public static String reportPath = null;
